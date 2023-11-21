@@ -16,7 +16,7 @@ export default function App() {
       <Card sx={{ maxWidth: 500, backgroundColor: '#fff', height: '84vh' }}>
         <CardContent>
           <Box>
-            <Box>
+            <Box sx={{ marginTop: 12 }}>
               <Typography variant='h5' component='h2'>
                 MATERIO
               </Typography>
